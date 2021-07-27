@@ -4,4 +4,4 @@ function maks(num1, num2) {
     let result = Math.max(num1, num2);
     return result;
 }
-console.log( maks(num1, num2) )
+console.log(maks(num1, num2))
